@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -38,3 +39,45 @@
     background-color: rgb(59, 66, 66);
 }
 
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent{
+    background-color:brown;
+    display: flex;
+    height: 220px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    color: white;
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.box2{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(47, 212, 212);
+}
+
+.box3{
+    align-self: flex-start;
+    width: 140px;
+    height: 140px;
+    background-color: rgb(8, 83, 83);
+}
+
+.box4{
+    width: 160px;
+    height: 160px;
+    background-color: rgb(59, 66, 66);
+}
+
+>>>>>>> e8e178648e1aa635bc6b8142c40831439d358e85
